@@ -9,5 +9,3 @@ dataset from kaggle: https://www.kaggle.com/datasets/gregorut/videogamesales
   + Smart Search (Key Mapping)
   + Dark/Night mode
   + CSV Export
-
-Im still learning so...
